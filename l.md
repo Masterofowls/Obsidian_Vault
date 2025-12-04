@@ -11,5 +11,5 @@ a & b \\
 c & d 
 \end{Bmatrix}$$
 10. $$\log 2 + \sqrt{x}$$
-11. $$\alpha + $$
+11. $$\alpha \le b\sim c$$
 
