@@ -83,5 +83,47 @@ banner: pixel-banner-images/1000053288.png
 80. Frank Sinatra 
 81. Louise Armstrong
 82. Craig Armstrong 
-83. 
+83. Lionel Richie 
+84. Lewis Capaldi 
+85. King Harvest 
+86. A-ha
+87. Carpenters 
+88. Stevie Wonder 
+89. Dianne Rose
+90. Ed Sheeran 
+91. The Beatles 
+92. Elton John
+93. Michael Learns to rock
+94. Bob Dylan 
+95. B B King
+96. Eric Carmen 
+97. U2
+98. Orleans
+99. Pink Floyd
+100. Abba
+101. Kansas
+102. Laid Back
+103. Dionne Warphick
+104. Irma Thomas
+105. Thomas Newman 
+106. Rendy Newman 
+107. Bred Paisley 
+108. The band
+109. The Smiths
+110. The Who
+111. Rod Stewart 
+112. Luciano Pavarotti 
+113. Moncerat Cavalier 
+114. Andrea Bocelli
+115. Sarah Brightman
+116. Enya
+117. Paul Young
+118. Seal
+119. Sam Smith
+120. The drums
+121. Tony Banett
+122. Courtney Barnett 
+123. Troy Baker 
+124. Tom Mcdonald 
+125. 
 
