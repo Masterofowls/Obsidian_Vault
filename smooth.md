@@ -1,114 +1,87 @@
 ---
 banner: pixel-banner-images/1000053288.png
 ---
-1. DJO
-2. CHRIS REA
-3. GIRL IN RED
-4. BILLIE ELLISH 
-5. COURTNEY BARNETT 
-6. PHIL COLLINS 
-7. RICHARD PARKER 
-8. ALEX G
-9. KENNY G
-10. BRYAN CULBERTSON 
-11. GEORGE BENSON 
-12. AL JARROW 
-13. STING
-14. SECRET GARDEN 
-15. LEONARD COHEN 
-16. CARPENTERS 
-17. CHAT BAKER
-18. ARTIE SHAW
-19. BOB JAMES
-20. EARL KLUGH 
-21. JAMES INGRAM 
-22. VAN MORISSON
-23. RAMIN DJAWADI 
-24. HANS ZIMMER 
-25. JAMES NEWTON HOWARD 
-26. JAMES HORNER 
-27. ALAN SILVEDTRI
-28. DENNY ELFMAN
-29. JUSTIN HURWITZ 
-30. YIRUMA 
-31. MAX RICHTER 
-32. BARRY MANILOW 
-33. MICHAEL CRAWFORD 
-34. FRANK SINATRA 
-35. RAISED BY SWANS
-36. WOODKID
-37. BANG GANG
-38. LOW ROAR
-39. LEWIS CAPALDI 
-40. PETER GABRIEL 
-41. THOMAS NEWMAN 
-42. BRED PAISLEY 
-43. BREAD
-44. CARLY SIMONE SARAH MCLACHLAN 
-45. CELINE DION
-46. JOAN BAEZ
-47. ELTON JOHN
-48. EMELI SANDRE 
-49. HOZIER 
-50. LP
-51. ENYA
-52. EELS
-53. LIONEL RICHIE 
-54. BENNY GOODMAN 
-55. JOHN COLTRANE 
-56. DANIEL POWTER
-57. LIFEHOUSE 
-58. THE VERVE 
-59. RADIOHEAD 
-60. U2
-61. PINK FLOYD 
-62. THE BEATLES 
-63. ELVIS PRESLEY 
-64. DIANE ROSE
-65. DIONNE WARPHICK 
-66. BEE GEES
-67. BARBARA STREISAND 
-68. SADE
-69. ALICIA KEYS
-70. AMY WINEHOUSE 
-71. ABBA
-72. NATALIE COLE
-73. MICHAEL LEARNS TO ROCK
-74. MEN I TRUST 
-75. MITSKI
-76. BJORK
-77. CIGARETTE AFTER SEX
-78. BUFFALO SPRINGFIELD 
-79. JRMA THOMAS
-80. NINA SIMONE
-81. ENGELBERT HUMPERDINCK 
-82. CHRIS ISAAC
-83. ROBERT PALMER
-84. GEORGE MICHAEL 
-85. TANITA TARKAN
-86. ALL4ONE
-87. WESTLIFE 
-88. A-HA
-89. BOYZONE 
-90. BOY2MEN
-91. BOB DYLAN 
-92. CRAIG ARMSTRONG 
-93. JOHN WILLIAMS 
-94. JOHAN JOHANSON
-95. HOWARD SHORE
-96. ALEXANDRE DESPLAT
-97. M
-98. RAINBOW 
-99. BLACK 
-100. SEAL
-101. LOU REED
-102. LAID BACK
-103. EAGLES
-104. EDWIN MARTON
-105. MAXIE STARR
-106. SIMPLY RED
-107. MAZIE
-108. 
-
-
+1. Dream, ivory
+2. Kenny G
+3. Chat Baker
+4. Earl Klugh 
+5. Bob James 
+6. James Ingram 
+7. Joji
+8. Current Joys
+9. Bóa
+10. Girl in red
+11. Strawberry guy
+12. Alex G
+13. Low Roar
+14. Bang Gang
+15. Emeli Sandre
+16. Bryan Culbertson 
+17. George Benson 
+18. Al Jarrow
+19. Radiohead 
+20. Simply Red
+21. Mitski
+22. Birdy
+23. Jewel
+24. Billie Ellish 
+25. LP
+26. Natalie Cole 
+27. Phil Collins 
+28. Sting
+29. Chris Rea
+30. Chris Isaac
+31. Max Richter
+32. Yiruma 
+33. Djo
+34. Hurts
+35. Bee Gees
+36. Imogen Heep
+37. Rainbow 
+38. Secret Garden 
+39. Alan Jackson 
+40. Commandors
+41. Reel People 
+42. Mazie Starr
+43. Sade
+44. Artie Shaw
+45. Benny Goodman 
+46. Richard Parker 
+47. Cliff Richard 
+48. Eels
+49. All4One 
+50. Men i trust
+51. Boyzone 
+52. Boy2men
+53. Westlife
+54. Ramin Djawadi 
+55. James Newton-Howard
+56. James Horner
+57. Howard Shore
+58. Kenny Loggins 
+59. Eagles 
+60. Duster
+61. Arctic Monkeys 
+62. Fool's garden 
+63. Peter Gabriel 
+64. Paul Winesberg
+65. Hans Zimmer 
+66. Justin Hurwitz 
+67. Doobie brothers
+68. Carly Simone
+69. Nina Simone 
+70. Joan Baez
+71. Sarah McLachlan 
+72. Celine Dion
+73. Joan Osborne 
+74. Barbara Streisand 
+75. Whitney Houston 
+76. Toto
+77. George Michael 
+78. Barry Manilow 
+79. Engelbert Humperdinck 
+80. Frank Sinatra 
+81. Louise Armstrong
+82. Craig Armstrong 
+83. 
 
